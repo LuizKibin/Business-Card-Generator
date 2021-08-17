@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Business Card Generator</string>
+    <string name="label_business_card">Cartão de Visita</string>
+    <string name="label_description_new_card">Novo Cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_telefone">Telefone</string>
+    <string name="label_mail">E-mail</string>
+    <string name="label_empresa">Empresa</string>
+    <string name="label_cor">Cor (em hexadecimal)</string>
+    <string name="label_confirmar">Confirmar</string>
+    <string name="label_show_sucess">Cartão cadastrado com sucesso!</string>
+    <string name="label_show_fail">Preencha todos os campos!</string>
+    <string name="label_show_fail2">Use o máximo de 20 caracteres!</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="confirm">Confirmação</string>
+    <string name="confirm_message">Tem certeza que quer deletar todos os cartões?</string>
+    <string name="confirm_sim">Sim</string>
+    <string name="confirm_nao">Não</string>
+    <string name="label_cargo">Cargo</string>
+</resources>
